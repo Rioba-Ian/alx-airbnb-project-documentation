@@ -1,8 +1,8 @@
-The user stories for the Airbnb project are as follows:
+As a user, I want to be able to search for accommodations based on my location and preferences.
 
-1. As a user, I want to be able to search for accommodations based on location, price, and amenities.
+1. As a user, I want to be able to search for accommodations based on my location and preferences.
 
-2. As a user, I want to be able to filter search results based on my preferences.
+2. As a user, I want to be able to filter search results based on price range, amenities, and rating.
 
 3. As a user, I want to be able to view detailed information about an accommodation, including photos, reviews, and availability.
 
